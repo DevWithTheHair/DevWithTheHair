@@ -1,4 +1,4 @@
-![Jaime Lopez Jr](jaime-lopez-jr.jpg)
+![Jaime Lopez Jr](https://github.com/DevWithTheHair/DevWithTheHair/blob/master/jaime-lopez-jr.jpg)
 
 ## Developer Advocate, Conference Speaker, Podcaster
 

@@ -17,10 +17,11 @@ I'm a Developer Advocate working on [open banking APIs](https://banno.com/digita
 - 🇺🇸 USA
 - 🇯🇵 Japan
 - 🇬🇧 United Kingdom
+- 🇦🇺 Australia (rescheduled to be virtual)
+- 🌏 Online
 
 #### Upcoming
 
-- 🇦🇺 Australia (rescheduled to be virtual)
 - 🌏 Online
 
 #### Conference Videos

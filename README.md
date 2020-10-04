@@ -22,7 +22,7 @@ I'm a Developer Advocate working on [open banking APIs](https://banno.com/digita
 
 #### Upcoming
 
-- 🌏 Online
+- 🌏 Online (Asia, virtual)
 
 #### Conference Videos
 

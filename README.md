@@ -20,10 +20,6 @@ I'm a Developer Advocate working on [open banking APIs](https://banno.com/digita
 - 🇦🇺 Australia (rescheduled to be virtual)
 - 🌏 Online
 
-#### Upcoming
-
-- 🌏 Online (Asia, virtual)
-
 #### Conference Videos
 
 My presentations (including video and slides) can be found in my [Conference-Talks](https://github.com/DevWithTheHair/Conference-Talks) repo.

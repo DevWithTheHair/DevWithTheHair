@@ -8,7 +8,7 @@
 
 ### Work
 
-I'm a Developer Advocate working on [open banking APIs](https://banno.com/digital-toolkit/) at [Jack Henry & Associates](https://www.jackhenry.com).
+I manage the Developer Advocate team working on [open banking APIs](https://banno.com/digital-toolkit/) at [Jack Henry & Associates](https://www.jackhenry.com).
 
 ### Conference Talks
 

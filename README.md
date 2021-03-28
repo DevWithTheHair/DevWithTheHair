@@ -17,8 +17,8 @@ I manage the Developer Advocate team working on [open banking APIs](https://bann
 - 🇺🇸 USA
 - 🇯🇵 Japan
 - 🇬🇧 United Kingdom
-- 🇦🇺 Australia (rescheduled to be virtual)
-- 🌏 Online
+- 🇦🇺 Australia (virtual)
+- 🌏 Virtual
 
 #### Conference Videos
 

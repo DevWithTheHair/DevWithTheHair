@@ -12,6 +12,10 @@ I manage the Developer Advocate team working on [open banking APIs](https://bann
 
 ### Conference Talks
 
+#### Upcoming
+
+- 🇯🇵 Japan (Virtual)
+
 #### Where I've Given Talks: 
 
 - 🇺🇸 USA

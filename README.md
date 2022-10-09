@@ -1,6 +1,6 @@
 ![Jaime Lopez Jr](https://github.com/DevWithTheHair/DevWithTheHair/blob/master/jaime-lopez-jr.jpg)
 
-## Developer Advocate | Conference Speaker | Podcaster
+## Developer Relations | Conference Speaker | Podcaster
 
 ### Connect with Me
 

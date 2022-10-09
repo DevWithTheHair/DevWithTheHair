@@ -8,7 +8,7 @@
 
 ### Work
 
-I manage the Developer Relations team working on [open banking APIs](https://banno.com/digital-toolkit/) at [Jack Henry](https://jackhenry.dev).
+I manage the Developer Relations team working on [open banking APIs](https://www.jackhenry.com/what-we-offer/digital-banking/open-banking-platform-integration) at [Jack Henry](https://jackhenry.dev).
 
 ### Conference Talks
 

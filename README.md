@@ -8,7 +8,7 @@
 
 ### Work
 
-I manage the Developer Relations team working on [open banking APIs](https://www.jackhenry.com/what-we-offer/digital-banking/open-banking-platform-integration) at [Jack Henry](https://jackhenry.dev).
+I lead the Developer Relations team working on [open banking APIs](https://jackhenry.dev) at [Jack Henry](https://www.jackhenry.com/what-we-offer/digital-banking/open-banking-platform-integration).
 
 ### Conference Talks
 

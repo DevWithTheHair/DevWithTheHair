@@ -4,7 +4,7 @@
 
 ### Connect with Me
 
-[Twitter](https://twitter.com/devwiththehair) | [LinkedIn](https://www.linkedin.com/in/jaime-lopez-jr-247b968/) | [Podcast](http://mtjc.fm) | [Blog](http://www.devwiththehair.com)
+[Twitter](https://twitter.com/devwiththehair) | [LinkedIn](https://www.linkedin.com/in/jaime-lopez-jr-247b968/) | [Podcast](https://morethanjustcode.com) | [Blog](http://www.devwiththehair.com)
 
 ### Work
 

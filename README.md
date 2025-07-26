@@ -25,4 +25,4 @@ My presentations (including video and slides) can be found in my [Conference-Tal
 
 ### Podcast
 
-I've co-hosted the [More Than Just Code](http://mtjc.fm) podcast since 2014.
+I've co-hosted the [More Than Just Code](https://morethanjustcode.com) podcast since 2014.
